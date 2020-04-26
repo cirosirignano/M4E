@@ -1,0 +1,2 @@
+print ("NuovoFile");
+print ("Ciao");
